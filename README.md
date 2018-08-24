@@ -1,4 +1,5 @@
 # Permissions Manager for laravel
+# BETA - A work in progress, for now...
 
 ## Installation
 
